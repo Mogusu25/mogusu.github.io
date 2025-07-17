@@ -1,7 +1,7 @@
 # mogusu.github.io
 #  Hi, I'm Maikara Mogusu.
 
-### 📊 Data Analyst | 📚 ICT & Digital Literacy Educator | 🧠 Lifelong Learner
+###  Data Analyst |  ICT & Digital Literacy Educator |  Lifelong Learner
 
 Welcome to my GitHub profile! I'm a data analyst and ICT educator with a passion for uncovering insights from data and helping learners thrive in the digital world. I work with tools like **Python in Google Colab**, **Excel**, and **Power BI** to build real-world data projects, and I create impactful teaching resources for **Digital Literacy and ICT** in the classroom.
 
@@ -39,17 +39,17 @@ I have completed several data analysis and machine learning projects  including:
 
 ##  2025 Goals
 
-- 📚 Share open resources to support ICT & Digital Literacy teaching
-- 👥 Collaborate on meaningful data and education projects
-- 🎓 Mentor aspiring data learners and junior analysts
+-  Share open resources to support ICT & Digital Literacy teaching
+-  Collaborate on meaningful data and education projects
+-  Mentor aspiring data learners and junior analysts
 
 ---
 
 ##  Let’s Connect
 
-- 📧 Email: maikaramogusu@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/stephen-mogusu-563a61230/
-- 🧠 Kaggle: [kaggle.com/maikaramogusu](https://www.kaggle.com/maikaramogusu)
+-  Email: maikaramogusu@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/stephen-mogusu-563a61230/
+-  Kaggle: [kaggle.com/maikaramogusu](https://www.kaggle.com/maikaramogusu)
 
 ---
 
