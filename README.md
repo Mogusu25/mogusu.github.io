@@ -5,7 +5,6 @@
 
 Welcome to my GitHub profile! I'm a data analyst and ICT educator with a passion for uncovering insights from data and helping learners thrive in the digital world. I work with tools like **Python in Google Colab**, **Excel**, and **Power BI** to build real-world data projects, and I create impactful teaching resources for **Digital Literacy and ICT** in the classroom.
 
----
 
 ##  About Me
 
@@ -14,7 +13,6 @@ Welcome to my GitHub profile! I'm a data analyst and ICT educator with a passion
 -  Skilled in using Python (Google Colab), Power BI, and Excel for solving real-world problems.
 -  Developer of classroom resources aligned to the Cambridge curriculum (Years 2–5).
 
----
 
 ##  Tech Stack & Tools
 
@@ -24,7 +22,6 @@ Welcome to my GitHub profile! I'm a data analyst and ICT educator with a passion
 - **Other Tools**: Git, GitHub, Microsoft Word, Google Workspace
 - **Teaching Areas**: MS Office, Windows OS, File/Folder Management, Internet Safety, Online Tools
 
----
 
 ##  Projects
 
